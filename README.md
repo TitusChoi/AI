@@ -1,4 +1,4 @@
-# Algorithm
+# AI
 
 **Version** : Python 3.7.3<br>
 **Author** : Titus Choi<br>
