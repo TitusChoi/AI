@@ -7,4 +7,4 @@
 
 **Author**      : Titus Choi<br>
 **Description** : This is artificial intelligence files for project.<br>
-**Order**       : pandas -> neural network<br>
+**Order**       : visualization -> neural network<br>
