@@ -1,4 +1,4 @@
-# AI
+# Artificial Intelligence
 
 **Version**     : Python 3.7.3<br>
 **Packages**    : https://docs.anaconda.com/anaconda/packages/old-pkg-lists/2019.03/py3.7_win-64/<br>
