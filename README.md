@@ -6,5 +6,5 @@
 2. pip install -r requirements.txt<br>(install package about list)
 
 **Author**      : Titus Choi<br>
-**Description** : This is artificial intelligence files for project.<br>
+**Description** : The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for projects.<br>
 **Order**       : visualization -> regression -> classification<br>
