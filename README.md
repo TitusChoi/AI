@@ -7,4 +7,4 @@
 
 **Author**      : Titus Choi<br>
 **Description** : The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for projects.<br>
-**Order**       : visualization -> regression -> classification<br>
+**Order**       : visualization -> regression -> binary classification -> multiple classification -> MLP<br>
