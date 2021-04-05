@@ -1,4 +1,4 @@
-# Title         : [Python]BooleanIndex.py
+# Title         : BooleanIndex.py
 # Description   : Boolean 추출 활용 예제
 
 # 파일 경로 확인 = C:\Users\TitusChoi\Desktop\Library\CodeLion\AI\datasets

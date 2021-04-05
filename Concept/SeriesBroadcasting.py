@@ -1,4 +1,4 @@
-# Title         : [Python]SeriesBroadcasting.py
+# Title         : SeriesBroadcasting.py
 # Description   : Series와 Broadcasting 활용 예제
 
 import pandas as pd
