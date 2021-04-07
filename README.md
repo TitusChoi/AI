@@ -27,8 +27,5 @@ It is possible to learn machine learning fundamentals that directly implement ML
 ## Contents
 Visualization -> Regression -> Binary Classification -> Multiple Classification -> SHLP -> MLP
 
-## Author
-Titus Choi
-
 ## Reference
 Likelion k-digital training 2nd<br>
