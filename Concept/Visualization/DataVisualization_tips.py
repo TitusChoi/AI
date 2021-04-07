@@ -1,4 +1,4 @@
-# Title         : [Python]DataVisualization_tips.py
+# Title         : DataVisualization_tips.py
 # Description   : Visualization
 
 import seaborn as sns

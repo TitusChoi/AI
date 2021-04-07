@@ -6,5 +6,5 @@
 2. pip install -r requirements.txt<br>(install package about list)
 
 **Author**      : Titus Choi<br>
-**Description** : The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for projects.<br>
-**Order**       : visualization -> regression -> binary classification -> multiple classification -> MLP<br>
+**Description** : The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for study.<br>
+**Reference** : 멋쟁이사자처럼 k-digital training 2기<br>

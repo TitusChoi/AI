@@ -1,4 +1,4 @@
-# Title         : [Python]DataVisualization_anscombe.py
+# Title         : DataVisualization_anscombe.py
 # Description   : Visualization
 
 import seaborn as sns

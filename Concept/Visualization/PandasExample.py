@@ -1,4 +1,4 @@
-# Title         : [Python]PandasExample.py
+# Title         : PandasExample.py
 # Description   : Pandas 활용 예제
 
 # 파일 경로 확인 = C:\Users\TitusChoi\Desktop\Library\CodeLion\AI\datasets\gapminder.tsv
