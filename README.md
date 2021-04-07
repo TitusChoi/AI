@@ -22,7 +22,7 @@ pip freeze > requirements.txt
 ```
 
 ## Usage
-It is possible to learn machine learning fundamentals that directly implement MLP.
+It is possible to learn machine learning fundamentals that directly implement machine learning algorithm.
 
 ## Contents
 Visualization -> Regression -> Binary Classification -> Multiple Classification -> SHLP -> MLP
