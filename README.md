@@ -1,10 +1,31 @@
 # Artificial Intelligence
+The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for study.
 
-**Version**     : Python 3.7.3<br>
-**Packages**    : You can install packages in the Lib\site-packages folder in your virtual environment.<br>
-1. pip freeze > requirements.txt(make package list file)
-2. pip install -r requirements.txt<br>(install package about list)
+## Installation
+Version : Python 3.7.3<br>
 
-**Author**      : Titus Choi<br>
-**Description** : The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for study.<br>
-**Reference** : 멋쟁이사자처럼 k-digital training 2기<br>
+1. Make virtual enviroment.
+```sh
+python -m venv <your_path>
+cd ./<your_path>/Script
+activate.bat
+```
+
+2. Install package list files.
+```sh
+pip install -r requirements.txt
+```
+
+3. If you want to make your development packages, you can proceed as below.
+```sh
+pip freeze > requirements.txt
+```
+
+## Usage
+It is possible to learn machine learning fundamentals that directly implement machine learning algorithm.
+
+## Contents
+Visualization -> Regression -> Binary Classification -> Multiple Classification -> SHLP -> MLP
+
+## Reference
+Likelion k-digital training 2nd<br>
