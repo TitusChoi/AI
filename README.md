@@ -11,7 +11,7 @@ cd ./<your_path>/Script
 activate.bat
 ```
 
-2. Install package list files.
+2. Install machine learning python packages.
 ```sh
 pip install -r requirements.txt
 ```
