@@ -3,6 +3,7 @@ The Artificial Intelligence(AI) Library is a self-contained python(jupyter noteb
 
 ## Installation
 Version : Python 3.7.3<br>
+IDE : Jupyter Lab, Microsoft Visual Code, Google Colab<br>
 
 1. Make virtual enviroment.
 ```sh
@@ -30,7 +31,8 @@ It is possible to learn machine learning fundamentals that directly implement ma
 3. [Binary Classification](https://github.com/TitusChoi/AI/tree/master/Concept/Classification)
 4. [Multiple Classification](https://github.com/TitusChoi/AI/tree/master/Concept/Classification)
 5. [MLP(Multiple Layer Perceptron)](https://github.com/TitusChoi/AI/tree/master/Concept/MLP)
-6. [Convolution Neural Network](https://github.com/TitusChoi/AI/tree/master/Concept/CNN)
+6. [CNN(Convolution Neural Network)](https://github.com/TitusChoi/AI/tree/master/Concept/CNN)
+7. [OpenCV](https://github.com/TitusChoi/AI/tree/master/Concept/OpenCV)
 
 ## Reference
-[Likelion k-digital training 2nd](https://k-digital.likelion.net/)<br>
+[Likelion k-digital training 2nd](https://k-digital.likelion.net/), [파이썬 날코딩으로 알고 짜는 딥러닝](https://github.com/KONANtechnology/Academy.ALZZA)<br>
