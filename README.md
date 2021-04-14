@@ -30,6 +30,7 @@ It is possible to learn machine learning fundamentals that directly implement ma
 3. [Binary Classification](https://github.com/TitusChoi/AI/tree/master/Concept/Classification)
 4. [Multiple Classification](https://github.com/TitusChoi/AI/tree/master/Concept/Classification)
 5. [MLP(Multiple Layer Perceptron)](https://github.com/TitusChoi/AI/tree/master/Concept/MLP)
+6. [Convolution Neural Network](https://github.com/TitusChoi/AI/tree/master/Concept/CNN)
 
 ## Reference
 [Likelion k-digital training 2nd](https://k-digital.likelion.net/)<br>
