@@ -21,8 +21,8 @@ jupyter notebook
 
 - (or) Run jupyter lab(recommended).
 ```sh
-pip install jupyter notebook
-jupyter notebook
+pip install jupyter lab
+jupyter lab
 ```
 
 - (or) Run pre-installed vscode.
