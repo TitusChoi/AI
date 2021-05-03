@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial_Intelligence
 The Artificial Intelligence(AI) Library is a self-contained python(jupyter notebook) library for study.
 
 ## Installation
