@@ -62,6 +62,7 @@ It is possible to learn machine learning fundamentals that directly implement ma
 - [RNN(Recurrent Neural Network)](https://github.com/TitusChoi/AI/tree/master/Concept/RNN)
 - [OpenCV](https://github.com/TitusChoi/AI/tree/master/Concept/OpenCV)
 - [NLP(Natural Language Processing)](https://github.com/TitusChoi/AI/tree/master/Concept/NLP)
+- [GAN(Generative Adversarial Network)](https://github.com/TitusChoi/AI/tree/master/Concept/GAN)
 
 ## Reference
 [Likelion k-digital training 2nd](https://k-digital.likelion.net/), [파이썬 날코딩으로 알고 짜는 딥러닝](https://github.com/KONANtechnology/Academy.ALZZA)<br>
