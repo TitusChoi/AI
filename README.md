@@ -12,7 +12,17 @@ cd ./<your_path>/Script
 activate.bat
 ```
 
-2. Run .ipynb files.
+2. Install machine learning python packages.
+```sh
+pip install -r requirements.txt
+```
+
+3. If you want to make your development packages, you can proceed as below.
+```sh
+pip freeze > requirements.txt
+```
+
+4. Run .ipynb files.
 - Run jupyter notebook.
 ```sh
 pip install jupyter notebook
@@ -28,16 +38,6 @@ jupyter lab
 - (or) Run pre-installed vscode.
 ```sh
 code
-```
-
-3. Install machine learning python packages.
-```sh
-pip install -r requirements.txt
-```
-
-4. If you want to make your development packages, you can proceed as below.
-```sh
-pip freeze > requirements.txt
 ```
 
 ## Usage
