@@ -41,7 +41,7 @@ code
 ```
 
 ## Usage
-It is possible to learn machine learning fundamentals that directly implement machine learning algorithm.
+It is possible to learn machine learning fundamentals that directly implement machine learning algorithms.
 
 ## Contents
 - Fundamentals
